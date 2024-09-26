@@ -24,7 +24,7 @@
 - **Others**: YAML, Arduino, Canva.
 
 <div align="center">
-  <img src="[https://i.imgur.com/RJjkbMw.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F785667097523154667%2F&psig=AOvVaw1q_BOEnsM5wblCclaY_5rX&ust=1727464286420000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJih2fKn4YgDFQAAAAAdAAAAABAE)" alt="Programming Animation" width="600"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F785667097523154667%2F&psig=AOvVaw1q_BOEnsM5wblCclaY_5rX&ust=1727464286420000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJih2fKn4YgDFQAAAAAdAAAAABAE" alt="Programming Animation" width="600"/>
 </div>
 
 ---

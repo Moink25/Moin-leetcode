@@ -24,7 +24,7 @@
 - **Others**: YAML, Arduino, Canva.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2f/b9/7c/2fb97ca589ed6fd8e90ad46254fb0658.gif" alt="Programming Animation" width="600"/>
+  <img src="https://i.pinimg.com/originals/2f/b9/7c/2fb97ca589ed6fd8e90ad46254fb0658.gif" alt="Programming Animation" width="300"/>
 </div>
 
 ---

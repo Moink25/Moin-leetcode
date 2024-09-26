@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/kGQkOjK.png" alt="GitHub Banner" width="1000"/>
+  <img src="/linked-in-banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # Hey, I'm Moin! 👋

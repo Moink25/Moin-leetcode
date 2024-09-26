@@ -98,7 +98,7 @@
 ---
 
 <div align="center">
-  <video playsinline="" class="mui-1se970o-video" controls="" data-automation="VideoPlayer" height="100%" loop="" muted="" autoplay="" width="100%" poster="https://www.shutterstock.com/shutterstock/videos/3567732187/thumb/11.jpg?ip=x480" preload="auto" aria-label="video-player" controlsList="nodownload"><source src="https://www.shutterstock.com/shutterstock/videos/3567732187/preview/stock-footage-animated-light-bulb-gif-isolated-on-white-background-idea-education-or-technology-concept-k.webm" type="video/webm"/><source src="https://www.shutterstock.com/shutterstock/videos/3567732187/preview/stock-footage-animated-light-bulb-gif-isolated-on-white-background-idea-education-or-technology-concept-k.mp4" type="video/mp4"/></video
+  <img src="https://i.pinimg.com/originals/ab/64/fa/ab64fa8a57d4e912656823ad0c0f83da.gif" alt="Programming Animation" width="300"/>
 </div>
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats, https://github.com/ryo-ma/github-profile-trophy, https://github.com/DenverCoder1/github-readme-streak-stats -->
